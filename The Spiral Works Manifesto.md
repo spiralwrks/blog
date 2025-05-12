@@ -17,7 +17,7 @@ First, we believe in taking a **structured** approach to building AI. Rather tha
 
 Second, we believe science itself follows patterns we can understand and enhance. **Scientific progress is not random** - it moves like a **spiral** (Gallais's evolutionary spiral) [1]. 
 
-![[gallais-evolutionary-spiral.png.png|300]]
+![[gallais-evolutionary-spiral.png|300]]
 
 This allows for the formal systematization of the very evolution of science itself and consequently a rigorous, structured approach to the **automation of science** using our **first hypothesis**. We believe then that AI scientists can understand and work with the **natural rhythm** of science and ultimately **accelerate** "normal science" [2] to gain much faster rates of **breakthrough science**.
 
