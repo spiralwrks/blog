@@ -1,4 +1,8 @@
-# Towards a New Kind of Science
+---
+title: "Towards a New Kind of Science"
+author: "Samuel Schapiro"
+date: "2025-09-02"
+---
 
 ## The Birth of Science
 If I were to seriously claim that the next thunderstorm was the “wrath of Zeus”, you might think I’d lost my mind. To the early, ancient Greeks, however, this was a normal explanation that stood unchallenged. Pre-scientific myth-makers would attribute natural phenomena to what we now understand to be “supernatural,” or mythical, causes - seastorms to Poseidon, healing to Apollo, thunderstorms to Zeus. We speak of early Greek “philosophy” rather than “science” for precisely this reason. All inquiry was originally speculatory, and it was not subject to rigorous scrutiny. 
@@ -14,7 +18,7 @@ As this revolution unfolds, it is increasingly important to disambiguate science
 2. Empirical and natural science
 3. Metaphysics and philosophy
 
-Each is distinguished by its method of verification, or lack thereof. The method of verification in logic and mathematics is formal proof - a logico-mathematical statement is either true or false. Conversely, empirical and natural science are hallmarked by the doctrine of falsification, for we can never know an empirical statement to be definitively true. A scientific theory, likewise, is never “proved true,” but only becomes more corroborated by evidence the better it resists attempts at falsification. Our goal as scientists is to design rigorous experiments whose outcomes can best corroborate or falsify our hypotheses, without falling into traps like those articulated by the Duhem-Quine thesis - where, from the outcome of a falsifying experiment, we are unsure which of our hypothesis or its background assumptions was false. 
+Each is distinguished by its method of verification, or lack thereof. The method of verification in logic and mathematics is formal proof - a logico-mathematical statement is either true or false. Conversely, empirical and natural science are hallmarked by the [doctrine of falsification](https://en.wikipedia.org/wiki/Falsifiability), for we can never know an empirical statement to be definitively true. A scientific theory, likewise, is never “proved true,” but only becomes more corroborated by evidence the better it resists attempts at falsification. Our goal as scientists is to design rigorous experiments whose outcomes can best corroborate or falsify our hypotheses, without falling into traps like those articulated by the [Duhem-Quine thesis](https://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis) - where, from the outcome of a falsifying experiment, we are unsure which of our hypothesis or its background assumptions was false. 
 
 Metaphysics and philosophy, we like to say, pick up where science and mathematics leave off. What is worth asking, and how do we tell when we understand it? Philosophical inquiry done right is invaluable, but as Popper notes, “genuine philosophical problems are always rooted in urgent problems outside philosophy, and they die if these roots decay.” We must be careful not to let our heads get caught in the clouds for too long, as is sometimes common among philosophers. We must be rationalists and empiricists, theorists and practitioners - for it is the interplay between these approaches that leads to the most holistic understanding. As Hadamard notes in The Psychology of Invention in the Mathematical Field:
 
@@ -22,6 +26,7 @@ Metaphysics and philosophy, we like to say, pick up where science and mathematic
 
 
 ## The Structure of Science
+
 With this in mind, how does scientific knowledge actually grow? It is tempting to think of science as a steady accumulation of facts, brick upon brick, until the edifice of knowledge is built. Yet history reveals something more radical: old frameworks are overturned, sometimes violently, and become replaced by new ones. 
 
 It was Kuhn’s landmark 1962 text, The Structure of Scientific Revolutions, which provided the most compelling argument for this now widely-adopted position, dispelling the “development-by-accumulation” doctrine in favor of his paradigmatic view. According to Kuhn, periods of normal science, consisting of problem solving within a fixed conceptual space (or “paradigm”), are followed by spurts of extraordinary science, when anomalies prompt scientists to recourse to philosophy, return to first principles, and debate over fundamentals. The result is ultimately a scientific revolution that alters previous worldviews and establishes a new paradigm. The term “paradigm shift,” unsurprisingly, was born here. In our Transformational Creativity in Science paper, we provided a mathematical model for this type of creativity, arguing that identifying and modifying the axioms of a conceptual space has the most creative potential. Though Kuhn’s insights always remained qualitative, not quantitative, perhaps due to his belief that successive paradigms were incommensurable and could not be compared one-to-one, newer generations of scholars such as ourselves saw beyond this limitation. 
