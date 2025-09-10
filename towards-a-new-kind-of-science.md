@@ -22,7 +22,7 @@ Each is distinguished by its method of verification, or lack thereof. The method
 
 Metaphysics and philosophy, we like to say, pick up where science and mathematics leave off. What is worth asking, and how do we tell when we understand it? Philosophical inquiry done right is invaluable, but as Popper notes, “genuine philosophical problems are always rooted in urgent problems outside philosophy, and they die if these roots decay.” We must be careful not to let our heads get caught in the clouds for too long, as is sometimes common among philosophers. We must be rationalists and empiricists, theorists and practitioners - for it is the interplay between these approaches that leads to the most holistic understanding. As Hadamard notes in The Psychology of Invention in the Mathematical Field:
 
-“Application is useful and eventually essential to theory by the very fact that it opens new questions for the latter. One could say that application’s constant relation to theory is the same as that of the leaf to the tree: one supports the other, but the former feeds the latter.” (p. 125)
+> “Application is useful and eventually essential to theory by the very fact that it opens new questions for the latter. One could say that application’s constant relation to theory is the same as that of the leaf to the tree: one supports the other, but the former feeds the latter.” (p. 125)
 
 
 ## The Structure of Science
@@ -39,7 +39,7 @@ Nevertheless, as scientists (rather, great scientists, as we should all aspire t
 
 Spiral Works too is committed to a scientific practice that works hand-in-hand with philosophy. In the words of Popper, “we are not students of some subject matter but students of problems… and problems may cut right across the border of any subject matter or discipline.” This has [worked well for us so far](https://computationalcreativity.net/iccc25/best-paper-awards/), and for reasons that should by now be clear, this has historically been most fruitful. As Alex Karp notes in The Technological Republic, this was actually the norm before science became specialized:
 
-The innovators of the eighteenth and nineteenth centuries were often polymaths whose interests diverged wildly from the contemporary expectation that depth, as opposed to breadth, is the most effective means of contributing to a field. The term “scientist” itself was only coined in 1834, to describe Mary Somerville, a Scottish astronomer and mathematician; prior to that, the blending of pursuits across physics and the humanities, for instance, was so commonplace and natural that a more specialized word had not been needed. Many had little regard for the boundary lines between disciplines, ranging from areas of study as seemingly unrelated as linguistics to chemistry, and zoology to physics.
+> The innovators of the eighteenth and nineteenth centuries were often polymaths whose interests diverged wildly from the contemporary expectation that depth, as opposed to breadth, is the most effective means of contributing to a field. The term “scientist” itself was only coined in 1834, to describe Mary Somerville, a Scottish astronomer and mathematician; prior to that, the blending of pursuits across physics and the humanities, for instance, was so commonplace and natural that a more specialized word had not been needed. Many had little regard for the boundary lines between disciplines, ranging from areas of study as seemingly unrelated as linguistics to chemistry, and zoology to physics.
 
 At Spiral Works, we do not blindly inquire, but instead, before the pencil ever hits the paper, ask ourselves “What scientific problems are most worth solving?” Today, the riddle of science itself stands at the top of our list. How can we develop mathematical language and conceptual toolkits to understand creativity, discovery, and invention? Problems like these form the foundation of our research agenda, but the questions do not stop here. How do we build robust, computational systems that exhibit these abilities too? This is a tall mountain to climb, but we are no stranger to challenges.
 
@@ -61,7 +61,7 @@ Skeptics may now feel that this applies to our two riddles: (1) is there a logic
 
 ## A New Kind of Science
 
-“We believe it is fair to characterise Computational Creativity as a frontier for AI research beyond all others - maybe, even, the final frontier.” ([Colton and Wiggins](https://computationalcreativity.net/iccc2014/wp-content/uploads/2013/09/ComputationalCreativity.pdf), 2012)
+> “We believe it is fair to characterise Computational Creativity as a frontier for AI research beyond all others - maybe, even, the final frontier.” ([Colton and Wiggins](https://computationalcreativity.net/iccc2014/wp-content/uploads/2013/09/ComputationalCreativity.pdf), 2012)
 
 Papers and patents are becoming [less disruptive](https://www.nature.com/articles/s41586-022-05543-x). Radically novel work has [become discouraged](https://www.sciencedirect.com/science/article/abs/pii/S0048733317301038). Something has gone wrong in the evolution of science, but AI is poised to change that.
 
